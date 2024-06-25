@@ -1,0 +1,2 @@
+# funcaoIA
+colegio geremia lunardelli
